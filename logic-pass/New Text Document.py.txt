@@ -1,0 +1,4 @@
+#example for a method that will remove any given char. from a str.
+name="fateima"
+s= name.replace( "e","")
+print(s)

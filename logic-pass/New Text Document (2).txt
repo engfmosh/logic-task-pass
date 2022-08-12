@@ -1,0 +1,4 @@
+#example for Function that count how many the given char. repeated
+word= "congratulations"
+counter = word.count('o')
+print("count of o in congratulations is:" + str(counter))
